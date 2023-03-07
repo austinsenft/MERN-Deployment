@@ -1,9 +1,8 @@
 # MERN-Deployment
 First ever deployment!
 
-This is a full CRUD (create read update delete) pet store application. 
+This is a full CRUD (create read update delete) pet store application made as an examination for the Coding Dojo
 
-Check out my deployment on AWS here: 35.89.62.251
 
 
 
